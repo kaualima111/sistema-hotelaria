@@ -1,0 +1,26 @@
+cat > .dockerignore << 'EOF'
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos locais
+.git
+.gitignore
+README.md
+Comandos.txt
+.DS_Store
+
+# Dados do banco
+*.db
+*.sqlite3
+
+# Logs
+*.log
+EOF

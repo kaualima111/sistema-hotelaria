@@ -1,0 +1,18 @@
+# Frontend
+Frontend_ProjetoHotelaria/node_modules/
+Frontend_ProjetoHotelaria/dist/
+Frontend_ProjetoHotelaria/.env
+Frontend_ProjetoHotelaria/package-lock.json
+
+# Backend
+Backend_ProjetoHotelaria/__pycache__/
+Backend_ProjetoHotelaria/*.pyc
+Backend_ProjetoHotelaria/.env
+Backend_ProjetoHotelaria/venv/
+Backend_ProjetoHotelaria/.pytest_cache/
+
+# IDE e sistema
+.vscode/
+.idea/
+.DS_Store
+*.log
